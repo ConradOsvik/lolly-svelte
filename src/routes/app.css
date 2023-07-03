@@ -1,0 +1,15 @@
+:root {
+	font-family: 'Rubik Variable', sans-serif;
+}
+
+button:focus-visible {
+	outline: none;
+}
+
+a:focus-visible {
+	outline: none;
+}
+
+input:focus-visible {
+	outline: none;
+}

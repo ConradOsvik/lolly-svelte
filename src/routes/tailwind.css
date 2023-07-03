@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	button,
+	a,
+	input {
+		@apply focus-visible:ring;
+		@apply transition-shadow;
+	}
+
+	body,
+	header,
+	button,
+	a,
+	input,
+	svg,
+	div,
+	p,
+	span,
+	form {
+		@apply transition-shadow;
+	}
+}
