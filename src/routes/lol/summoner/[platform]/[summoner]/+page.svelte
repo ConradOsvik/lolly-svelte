@@ -19,7 +19,7 @@
 </script>
 
 <svelte:head>
-	<title>{summoner} - {platform}</title>
+	<title>{summoner} - {platform} / Lolly</title>
 </svelte:head>
 
 <Banner />

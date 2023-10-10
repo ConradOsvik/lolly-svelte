@@ -19,7 +19,7 @@
 		</h3>
 		<a
 			class="flex items-center justify-center rounded-lg border border-zinc-200 px-3 py-1.5 text-sm leading-none no-underline transition-all hover:border-zinc-300 hover:bg-zinc-50 dark:border-zinc-700 dark:hover:border-zinc-600 dark:hover:bg-zinc-800"
-			href="/ladder/{$page.params.platform}/{data.leagueId}"
+			href="/lol/ladder/{$page.params.platform}/{data.leagueId}"
 		>
 			View ladder
 		</a>

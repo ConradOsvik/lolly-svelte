@@ -31,7 +31,7 @@
 
 <div class="flex h-screen w-screen overflow-hidden">
 	<Sidebar />
-	<div class="flex w-full flex-col items-center justify-start overflow-y-auto">
+	<div class="flex w-full flex-col items-center justify-start overflow-auto">
 		<Header />
 		{#key data.url}
 			<main

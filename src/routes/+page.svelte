@@ -18,7 +18,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Home / Lolly</title>
 </svelte:head>
 
 <!-- <Select open={true} options={['Select', '123']} /> -->
